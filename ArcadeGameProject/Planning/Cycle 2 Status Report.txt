@@ -1,0 +1,28 @@
+CYCLE 2 START:
+We have already implemented the method that kills the mushrooms 
+and changes the image that goes with them.
+
+The hero can already be killed but we still have to work to to make centipede kill the player. 
+This modification should only be about 3 hours if it works right.
+
+We are making the centipede move back and forth with classic motion. 
+The plan is to use linked lists to insure that the centipede follows the centipede in front of it.
+I imagine a time of 5+ work hours on this due to errors that we've encountererd. 
+
+
+
+The plan is to use the bullet's implementation to kill the centipede 
+and use the linked list to split the centipede: Killing should be about an hour, splitting will
+probably end up taking like 5 hours
+
+CYCLE 2 END: 
+
+The centipede killing the player required less code modification than we thought it would, that 
+only took about an hour
+
+The classic centipede was moved away from a true linked list implementation and it did take about
+5+ hours to get it to move right. We also discovered a display problem that helped the centipede
+display better
+
+Splitting was less than an hour due to Jacob discovering that dropping mushrooms causes things to 
+work out nicely for split & reversal

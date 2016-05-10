@@ -1,0 +1,34 @@
+10
+
+dir
+55
+http://svn.csse.rose-hulman.edu/repos/csse230-201630-trees32/EditorTrees/src
+http://svn.csse.rose-hulman.edu/repos/csse230-201630-trees32
+
+
+
+2016-05-02T21:12:11.639852Z
+55
+guoy1
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0433137d-24ca-417d-ae61-c4230647a6e2
+
+debughelp
+dir
+
+editortrees
+dir
+

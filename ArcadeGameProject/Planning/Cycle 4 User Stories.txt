@@ -1,0 +1,8 @@
+We built the leader board out of splash screen and load level code. 
+We used load level for all the file processing, and
+We used splash screen to draw the board.
+We found out how to write to file using based stack over flow.
+We decided to do a sorting algorithm into the arraylist and 
+We made the arraylist automatically resize to 10 or the minimum required size.
+
+We have started playing the game and it is very fun. However it is equally traumatic.

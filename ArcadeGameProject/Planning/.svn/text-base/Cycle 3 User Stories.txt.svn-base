@@ -1,0 +1,5 @@
+Centipede turns out to be harder to navigate than expected, 
+but we managed to get centipede to stop flickering.
+Scoring was difficult, but the methods I made helped.
+We have made a splash screen and plan to put it everywhere. 
+However, the way our threads work make drawing our splash screen erratic, so it requires more work.
