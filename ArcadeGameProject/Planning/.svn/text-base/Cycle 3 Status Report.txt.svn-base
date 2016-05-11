@@ -1,0 +1,26 @@
+Cycle 3 start
+enemies have most motion, can die, but don't add points when they die. This will take about one hour.
+main gun works, but fires infinitely, other guns have bullet overlap. this will take about one hour.
+AI need to stop throwing errors when they move. This will take one hour.
+score and lives don't exist and can't be displayed this will take 1 hours to complete.
+we need to make a splash screen this will take one hour to create.
+
+Cycle 3 end
+All the enemies have full motion, AI, and attributes. 
+This took 5 hours non-continuously because centipede has more loops than one person can easily navigate. 
+When they die and assign points.
+This took less than an hour because I made methods to do this in the earlier revisions in the game.
+Killing enemies creates an image of their points value next to where they died. 
+This took 1 hour even though we had to create a new class to handle the strings
+All guns fire, kill and can be properly selected. Guns now fire at a reasonable frequency. 
+Levels can be played, work, and automatically change.
+The player has full motion in the player's area but can't move outside of the area or move through mushrooms.
+There is a score and live system that restarts the game after you lose all your lives. 
+This took 2 hours due to confusion as to how we could display lives and points, 
+leading to creating a information bar.
+There is a pause System and a splash screen
+This took 1 hour to get a basic screen with images, 
+but further work took 1 hour due to complications of painting in threads.
+
+We are essentially done now, but there are a few bugs to squash 
+and we want to make the splash screen "better" and show up more often.

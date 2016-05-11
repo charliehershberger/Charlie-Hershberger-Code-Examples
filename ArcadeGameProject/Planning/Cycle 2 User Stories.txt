@@ -1,0 +1,9 @@
+When we were making the centipede move back and forth with classic motion, 
+The plan was to use linked lists to insure that the centipede follows the centipede in front of it,
+however, having each part of the centipede be its own centipede works just as well.
+However, my linked list system worked on the first try, so that was cool.
+
+The plan was to use the bullet's implementation to kill the centipede, 
+but bullets can't kill moving objects so more work is required 
+We planned to use the linked list to split the centipede, 
+but that was not necessary because we no longer use linked lists for centipede

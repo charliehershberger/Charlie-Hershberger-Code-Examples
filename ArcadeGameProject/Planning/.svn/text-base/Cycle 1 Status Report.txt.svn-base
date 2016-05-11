@@ -1,0 +1,28 @@
+
+CYCLE 1 START:
+Right now we have planned out our classes. We should have the frame and board made so it can
+draw object and that there are object classes to draw on the frame.
+
+We will also work on a function that will load a game with mushrooms in it and save it.
+
+There should also be a main menu that can be quitted from the current game to and have new games
+started there.
+
+We think this should take 1 hour to to make the frame with buttons work. 
+1 hour to make the file loading work. 3 hours to make all the classes with motion work.
+
+CYCLE 1 SUBMIT:
+Amusing as this sentence may be to read, everything here took like 3 times as long as expected
+and nothing worked like we initially wanted it to.
+
+The Frame took no time at all but getting they keyboard to work required knowing key binding,
+which took about 2 hours to learn and implement with the other code we had. 
+
+File loading took 3 hours to write and debug because nothing worked as expected initially.
+We had to properly locate files and make a game board. Then we had to rewrite some of Level 
+becuase it needed to make a new game board every time. 
+
+The classes with motion so far have taken about 4+ hours to write and make move properly.
+Key binding was a big part of it, but general troubleshooting with board size and level
+loading hindered progress.
+
